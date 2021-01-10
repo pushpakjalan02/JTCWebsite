@@ -31,6 +31,15 @@
     background: white;
 }
 
+@media (max-width: 575.98px) {
+    .navigation-component .navbar.toggler-active {
+        -webkit-box-shadow: 0 8px 6px -6px #999;
+        -moz-box-shadow: 0 8px 6px -6px #999;
+        box-shadow: 0 8px 6px -6px #999;
+        background: white;
+    }
+}
+
 .navigation-component .navbar-toggler{
     background-color: #073B4C;   
 }

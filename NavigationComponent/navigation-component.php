@@ -6,7 +6,7 @@
                     <img src='assets/JTC_Logo.png' width='30' height='30' class='d-inline-block align-top' alt=''>
                     Jorhat Trade Centre
                 </span>
-                <button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#navbarNav' aria-controls='navbarNav' aria-expanded='false' aria-label='Toggle navigation'>
+                <button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#navbarNav' onclick='togglerClick()' aria-controls='navbarNav' aria-expanded='false' aria-label='Toggle navigation'>
                     <span class='' role='button'>
                         <i class='fa fa-bars' aria-hidden='true'></i>
                     </span>
@@ -28,6 +28,8 @@
         </div>
         <script>
             const navbar = document.querySelector('.navigation-component .navbar');
+            const navbarToggler = document.querySelector('.navigation-component .navbar-toggler');
+
             window.onscroll = () => {
                 if (window.pageYOffset > 0) {
                     navbar.classList.add('nav-scrolled');
@@ -35,5 +37,15 @@
                     navbar.classList.remove('nav-scrolled');
                 }
             };
+
+            function togglerClick() {
+                if ($('.navigation-component .navbar-toggler').hasClass('toggler-active')) {
+                    navbar.classList.remove('toggler-active');
+                    navbarToggler.classList.remove('toggler-active');
+                } else {
+                    navbar.classList.add('toggler-active');
+                    navbarToggler.classList.add('toggler-active');
+                }
+            }
         </script>";
 ?>
