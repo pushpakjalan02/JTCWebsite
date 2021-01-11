@@ -27,3 +27,33 @@
         min-height: 100vh;
     }
 }
+
+.home .welcome .message-primary{
+    color: #073B4C;
+    font-size: 4vw;
+    text-align: center;
+    display: block;
+}
+
+.home .welcome .message-secondary{
+    color: #073B4C;
+    font-size: 2.5vw;
+    text-align: center;
+    display: block;
+}
+
+@media (max-width: 575.98px){
+    .home .welcome .message-primary{
+        font-size: 8vw;
+    }
+    
+    .home .welcome .message-secondary{
+        font-size: 5vw;
+    }
+}
+
+@media (max-width: 575.98px){
+    .home .welcome-p1{
+        margin-top: 10vh;
+    }
+}
