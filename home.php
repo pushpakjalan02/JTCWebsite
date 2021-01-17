@@ -21,15 +21,38 @@
                     <img src='assets\welcome.png' class='image img-fluid mx-auto d-block' alt='Welcome image'>
                 </div>
             </div>
-            a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>
-            a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>
-            a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>
-            a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>
-            a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>
-            a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>
-            a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>
-            a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>
-            a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>
-            a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>
+            <div class='about row'>
+                <div class='about-heading col-12 align-self-center'>
+                    <div class='about-heading-content'>ABOUT</div>
+                    <div class='about-heading-bottom'></div>
+                </div>
+                <div class='about-text col-12 align-self-center'>
+                    <p>At Jorhat Trade Centre, we empower our customers with the best, high 
+                    quality and highly recommended products. As we move towards our 25th year 
+                    of establishment, we want to be a breakthrough in customer experience and 
+                    satisfaction. And not only this but we aim to go beyond to solve our 
+                    customer's problems with innovative ideas by introducing novel products to 
+                    the market and even by integrating the old ones to work co-operatively.</p>
+
+                    <p>Our team takes this to a new level with simpler sales, service and 
+                    implementation. To achive this, we keep our customers updated with latest 
+                    information, do consulations and take feedbacks to make our processes smooth 
+                    and efficient for our customers. We adapt to their needs and their way of 
+                    working. Today, 600+ firms at Jorhat and many more all over North-East India 
+                    are our regular and consistent customers and we are their first-choice. We 
+                    are sure, choosing us will make you love us too.</p>
+                </div>
+            </div>            
         </div>";
 ?>
+<!-- 
+a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>
+            a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>
+            a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>
+            a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>
+            a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>
+            a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>
+            a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>
+            a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>
+            a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>
+            a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/> -->
