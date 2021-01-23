@@ -42,7 +42,104 @@
                     are our regular and consistent customers and we are their first-choice. We 
                     are sure, choosing us will make you love us too.</p>
                 </div>
-            </div>            
+            </div>
+            <div class='brands row'>
+                <div class='brand-heading col-12 align-self-center'>
+                    <div class='brand-heading-content'>WE DEAL IN</div>
+                    <div class='brand-heading-bottom'></div>
+                </div>
+                <div class='brand-sliding-container container-fluid'>
+                    <div class='brand-marquee'>
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-tally.png' width='200px'>
+                        </div>  
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-biz-analyst.webp' width='200px'>
+                        </div> 
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-quick-heal.png' width='200px'>
+                        </div> 
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-tvs.png' width='150px'>                        
+                        </div>
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-wep-solutions.png' width='150px'>
+                        </div>
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-lipi.png' width='200px'>
+                        </div>
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-sony.png' width='200px'>
+                        </div>  
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-sandisk.png' width='200px'>
+                        </div> 
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-seagate.png' width='150px'>
+                        </div> 
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-western-digital.png' width='200px'>                        
+                        </div>
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-lenovo.png' width='200px'>
+                        </div>
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-hewlett-packard.png' width='100px'>
+                        </div>  
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-asus.png' width='200px'>
+                        </div>  
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-apollo.png' width='200px'>
+                        </div> 
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-goodyear.jpg' width='200px'>
+                        </div> 
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-bridgestone.png' width='200px'>                        
+                        </div>
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-ceat.png' width='200px'>
+                        </div>
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-jk-tyres.png' width='200px'>
+                        </div>  
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-mrf.png' width='200px'>
+                        </div> 
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-amaron.jpg' width='130px'>
+                        </div> 
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-exide.png' width='200px'>                        
+                        </div>
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-power7.png' width='150px'>
+                        </div>
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-castrol.png' width='200px'>
+                        </div>  
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-hindustan-petroleum.jpeg' width='150px'>
+                        </div> 
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-iftex.png' width='150px'>
+                        </div> 
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-servo.png' width='200px'>                        
+                        </div>
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-shrachi.png' width='200px'>
+                        </div>  
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-kisan-kraft.jpg' width='200px'>
+                        </div> 
+                        <div class='brand-img'>
+                            <img src='assets\Brands\brand-logo-greaves.png' width='200px'>
+                        </div> 
+                    </div>
+                </div>
+            </div>
         </div>";
 ?>
 <!-- 
