@@ -251,3 +251,102 @@
     0% { left: 100vw; }
     100% { left: -6500px; }
 }
+
+.home .benefits {
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    min-height: 80vh;
+}
+
+.home .benefits .benefits-heading {
+    margin-bottom: 40px;
+}
+
+.home .benefits .benefits-heading-content {
+    font-size: 4vw;
+    text-align: center;
+    font-weight: 600;
+    color: #073B4C;
+}
+
+.home .benefits .benefits-heading-bottom {
+    margin: auto;
+    height: 10px;
+    width: 4.5vw;
+    border-top: 4px solid grey;
+}
+
+@media (max-width: 1199.98px) {
+    .home .benefits .benefits-heading-content {
+        font-size: 4.5vw;
+    }
+    .home .benefits .benefits-heading-bottom {
+        width: 5vw;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .home .benefits .benefits-heading-content {
+        font-size: 5vw;
+    }
+    .home .benefits .benefits-heading-bottom {
+        width: 5.5vw;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .home .benefits .benefits-heading-content {
+        font-size: 6vw;
+    }
+    .home .benefits .benefits-heading-bottom {
+        width: 6.5vw;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .home .benefits {
+        margin-top: 5vh;
+        margin-bottom: 5vh;
+        min-height: 90vh;
+    }
+    .home .benefits .benefits-heading-content {
+        font-size: 8vw;
+    }
+    .home .benefits .benefits-heading-bottom {
+        width: 8.5vw;
+    }
+}
+
+.home .benefits .benefits-content .card {
+    width: 30%;
+    margin: 10px 0; 
+}
+
+.home .benefits .benefits-content .card .card-image {
+    height: 100px;
+    margin: 20px auto 0;
+}
+
+.home .benefits .benefits-content .card .card-body .card-title {
+    height: 72px;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    text-align: center;
+}
+
+.home .benefits .benefits-content .card .card-body .card-text {
+    text-align: center;
+}
+
+@media (max-width: 991.98px) {
+    .home .benefits .benefits-content .card {
+        width: 45%;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .home .benefits .benefits-content .card {
+        width: 90%;
+    }
+}

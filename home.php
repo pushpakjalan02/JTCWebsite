@@ -140,6 +140,91 @@
                     </div>
                 </div>
             </div>
+            <div class='benefits row'>
+                <div class='benefits-heading col-12 align-self-center'>
+                    <div class='benefits-heading-content'>WAIT, THERE'S MORE FOR YOU!</div>
+                    <div class='benefits-heading-bottom'></div>
+                </div>
+                <div class='benefits-content col-12 align-self-center row no-gutters justify-content-around'>
+                    <div class='card'>
+                        <img class='card-image' src='assets\Benefits\Highly_Competent_Team.png' alt='Highly Competent Team Image'>
+                        <div class='card-body'>
+                            <h5 class='card-title'>
+                                Highly Competent Team
+                            </h5>
+                            <p class='card-text'>
+                                Expect service from well-trained and well-equipped personnels who
+                                can provide you with genuinely smart solutions to all your needs.
+                            </p>
+                        </div>
+                    </div>
+                    <div class='card'>
+                        <img class='card-image' src='assets\Benefits\Ready_To_Assist.png' alt='Ready To Assist Image'>
+                        <div class='card-body'>
+                            <h5 class='card-title'>
+                                Ready to Assist
+                            </h5>
+                            <p class='card-text'>
+                                When time is critical and getting things done becomes important,
+                                remember us because we are always there to assist you.
+                            </p>
+                        </div>
+                    </div>
+                    <div class='card'>
+                        <img class='card-image' src='assets\Benefits\Fast_Service.png' alt='Fast Service Image'>
+                        <div class='card-body'>
+                            <h5 class='card-title'>
+                                Hassle-Free Fast Service
+                            </h5>
+                            <p class='card-text'>
+                                Our team ensures that from installation to routine maintanence, 
+                                everything is done with the slightest botheration to our clients
+                                and in minimum possible time.
+                            </p>
+                        </div>
+                    </div>
+                    <div class='card'>
+                        <img class='card-image' src='assets\Benefits\Stay_Updated.png' alt='Stay Updated Image'>
+                        <div class='card-body'>
+                            <h5 class='card-title'>
+                                Stay Updated with Latest Product Information
+                            </h5>
+                            <p class='card-text'>
+                                We regularly keep our clients informed about product updates, 
+                                latest customizations available and other product information and
+                                even suggest upgradations as per their usage and needs.
+                            </p>
+                        </div>
+                    </div>
+                    <div class='card'>
+                        <img class='card-image' src='assets\Benefits\Trainings_And_Webinars.png' alt='Trainings And Webinars Image'>
+                        <div class='card-body'>
+                            <h5 class='card-title'>
+                                In-Person Trainings and Webinars
+                            </h5>
+                            <p class='card-text'>
+                                Regular in-person trainings and webinars allow us to enhance product
+                                knowledge among our clients and take individual feedbacks on our 
+                                products and processes so that we can improve them and boost customer
+                                experience.
+                            </p>
+                        </div>
+                    </div>
+                    <div class='card'>
+                        <img class='card-image' src='assets\Benefits\Community.png' alt='Community Image'>
+                        <div class='card-body'>
+                            <h5 class='card-title'>
+                                Be part of our Community
+                            </h5>
+                            <p class='card-text'>
+                                We value our relationship more than just a seller-customer one. We 
+                                believe that trust, commitment and mutual benefit should be the 
+                                driving force of this relationship.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>";
 ?>
 <!-- 
