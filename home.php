@@ -249,6 +249,10 @@
                     </div>
                 </div>
             </div>
+            <div class='home-final-section row'>
+                <img src='assets\animated-talking-man.png' class='animated-talking-man img-fluid
+                    d-block mx-auto' alt='We are excited to help you!'>
+            </div>
         </div>";
 ?>
 <!-- 
