@@ -350,3 +350,122 @@
         width: 90%;
     }
 }
+
+.home .community {
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    min-height: 50vh;
+}
+
+.home .community .community-heading {
+    margin-bottom: 40px;
+}
+
+.home .community .community-heading-content {
+    font-size: 4vw;
+    text-align: center;
+    font-weight: 600;
+    color: #073B4C;
+}
+
+.home .community .community-heading-bottom {
+    margin: auto;
+    height: 10px;
+    width: 4.5vw;
+    border-top: 4px solid grey;
+}
+
+@media (max-width: 1199.98px) {
+    .home .community .community-heading-content {
+        font-size: 4.5vw;
+    }
+    .home .community .community-heading-bottom {
+        width: 5vw;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .home .community .community-heading-content {
+        font-size: 5vw;
+    }
+    .home .community .community-heading-bottom {
+        width: 5.5vw;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .home .community .community-heading-content {
+        font-size: 6vw;
+    }
+    .home .community .community-heading-bottom {
+        width: 6.5vw;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .home .community {
+        margin-top: 5vh;
+        margin-bottom: 5vh;
+    }
+    .home .community .community-heading-content {
+        font-size: 8vw;
+    }
+    .home .community .community-heading-bottom {
+        width: 8.5vw;
+    }
+}
+
+.home .community .community-content .community-statistics-number {
+    font-size: 4vw;
+    color: #ffc107;
+    font-weight: 700;
+    text-align: center;
+    justify-content: center;
+}
+
+.home .community .community-content .community-statistics-label {
+    font-size: 3vw;
+    font-weight: 600;
+    text-align: center;
+    justify-content: center;
+}
+
+@media (max-width: 1199.98px) {
+    .home .community .community-content .community-statistics-number {
+        font-size: 4.5vw;
+    }
+    
+    .home .community .community-content .community-statistics-label {
+        font-size: 3.5vw;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .home .community .community-content .community-statistics-number {
+        font-size: 5vw;
+    }
+    
+    .home .community .community-content .community-statistics-label {
+        font-size: 4vw;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .home .community .community-content .community-statistics-number {
+        font-size: 5.5vw;
+    }
+    
+    .home .community .community-content .community-statistics-label {
+        font-size: 4.5vw;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .home .community .community-content .community-statistics-number {
+        font-size: 6vw;
+    }
+    
+    .home .community .community-content .community-statistics-label {
+        font-size: 5vw;
+    }
+}

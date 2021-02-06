@@ -225,6 +225,30 @@
                     </div>
                 </div>
             </div>
+            <div class='community row'>
+                <div class='community-heading col-12 align-self-center'>
+                    <div class='community-heading-content'>OUR COMMUNITY</div>
+                    <div class='community-heading-bottom'></div>
+                </div>
+                <div class='community-content col-12 align-self-center'>
+                    <div class='card'>
+                        <div class='row no-gutters justify-content-around'>
+                            <div class='col-sm-4 my-3'>
+                                <div class='community-statistics-number row no-gutters'>500+</div>
+                                <div class='community-statistics-label row no-gutters'>Businesses</div>
+                            </div>
+                            <div class='col-sm-4 my-3'>
+                                <div class='community-statistics-number row no-gutters'>150+</div>
+                                <div class='community-statistics-label row no-gutters'>CAs / GSTPs</div>
+                            </div>
+                            <div class='col-sm-4 my-3'>
+                                <div class='community-statistics-number row no-gutters'>1000+</div>
+                                <div class='community-statistics-label row no-gutters'>Customers</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>";
 ?>
 <!-- 
