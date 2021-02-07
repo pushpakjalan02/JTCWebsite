@@ -9,7 +9,7 @@
         <link rel="stylesheet" href="../FooterComponent/footer-component.css?<?php echo time(); ?>" type="text/css">
         <link rel="stylesheet" href="contact-component.css?<?php echo time(); ?>" type="text/css">
         <title>Jorhat Trade Centre</title>
-        <link rel="icon" href="assets/JTC_Logo.png" type="image/x-icon">
+        <link rel="icon" href="../assets/JTC_Logo.png" type="image/x-icon">
     </head>
     <body>
         <?php include '../NavigationComponent/navigation-component.php' ?>

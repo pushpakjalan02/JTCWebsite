@@ -3,7 +3,7 @@
         "<div class='navigation-component'>
             <nav class='navbar navbar-expand-sm fixed-top'>
                 <span class='navbar-brand mb-0 h1'>
-                    <img src='assets/JTC_Logo.png' width='30' height='30' class='d-inline-block align-top' alt=''>
+                    <img src='../assets/JTC_Logo.png' width='30' height='30' class='d-inline-block align-top' alt=''>
                     Jorhat Trade Centre
                 </span>
                 <button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#navbarNav' onclick='togglerClick()' aria-controls='navbarNav' aria-expanded='false' aria-label='Toggle navigation'>
@@ -14,13 +14,10 @@
                 <div class='collapse navbar-collapse justify-content-end' id='navbarNav'>
                     <ul class='navbar-nav'>
                         <li class='nav-item'>
-                            <a class='nav-link' href='home.php'>Home</a>
+                            <a class='nav-link' href='../HomeComponent/home-component.php'>Home</a>
                         </li>
                         <li class='nav-item'>
-                            <a class='nav-link' href='products.php'>Products</a>
-                        </li>
-                        <li class='nav-item'>
-                            <a class='nav-link' href='contact.php'>Contact</a>
+                            <a class='nav-link' href='../ContactComponent/contact-component.php'>Contact</a>
                         </li>
                     </ul>
                 </div>
