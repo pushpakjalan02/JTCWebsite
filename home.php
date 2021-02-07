@@ -255,6 +255,8 @@
             </div>
         </div>";
 ?>
+<?php include 'FooterComponent/footer-component.php' ?>
+
 <!-- 
 a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>
             a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>a<br/>

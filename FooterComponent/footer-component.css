@@ -1,0 +1,25 @@
+.footer-component {
+    background-color: #073B4C;
+    color: white;
+    padding: 20px;
+}
+
+.footer-component .copyright-info {
+    padding-right: 15px;
+}
+
+.footer-component .developer-info {
+    text-align: right;
+    padding-left: 15px;
+}
+
+@media (max-width: 575.98px) {
+    .footer-component .copyright-info {
+        padding: 5px 0;
+    }
+    
+    .footer-component .developer-info {
+        text-align: left;
+        padding: 5px 0;
+    }
+}
