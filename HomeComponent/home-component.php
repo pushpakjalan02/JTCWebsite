@@ -24,9 +24,9 @@
                             <i class='fa fa-phone' aria-hidden='true'></i>
                             Get in Touch
                         </a>
-                        <a class='col-5 m-2 btn btn-outline-warning' href='#' role='button'>
+                        <a class='col-5 m-2 btn btn-outline-warning' href='mailto:jorhattradecentre@gmail.com' role='button'>
                             <i class='fa fa-paper-plane' aria-hidden='true'></i>
-                            Explore
+                            Write to us
                         </a>
                     </div>
                 </div>
