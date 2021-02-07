@@ -1,0 +1,41 @@
+.contact .contact-content {
+    min-height: 85vh;
+    color: #073B4C;
+    padding: 0 15px;
+    margin: 56px 0 0;
+}
+
+.contact .contact-content .social-media-links a{
+    display: inline-block;
+    margin: 0.8vw;
+    height: 4vw;
+}
+
+.contact .contact-content .contact-details a:hover{
+    text-decoration: none;
+}
+
+.contact .contact-content .social-media-links i{
+    font-size: 4vw;
+}
+
+@media (max-width: 767.98px) {
+    .contact .contact-content .social-media-links a{
+        height: 5vw;
+    }
+    
+    .contact .contact-content .social-media-links i{
+        font-size: 5vw;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .contact .contact-content .social-media-links a{
+        margin: 1.2vw;
+        height: 8vw;
+    }
+    
+    .contact .contact-content .social-media-links i{
+        font-size: 8vw;
+    }
+}
