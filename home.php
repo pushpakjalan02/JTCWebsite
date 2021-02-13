@@ -5,14 +5,14 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-        <link rel="stylesheet" href="../NavigationComponent/navigation-component.css?<?php echo time(); ?>" type="text/css">
-        <link rel="stylesheet" href="../FooterComponent/footer-component.css?<?php echo time(); ?>" type="text/css">
-        <link rel="stylesheet" href="home-component.css?<?php echo time(); ?>" type="text/css">
+        <link rel="stylesheet" href="NavigationComponent/navigation-component.css?<?php echo time(); ?>" type="text/css">
+        <link rel="stylesheet" href="FooterComponent/footer-component.css?<?php echo time(); ?>" type="text/css">
+        <link rel="stylesheet" href="HomeComponent/home-component.css?<?php echo time(); ?>" type="text/css">
         <title>Jorhat Trade Centre</title>
-        <link rel="icon" href="../assets/JTC_Logo.png" type="image/x-icon">
+        <link rel="icon" href="assets/JTC_Logo.png" type="image/x-icon">
     </head>
     <body>
-        <?php include '../NavigationComponent/navigation-component.php' ?> 
+        <?php include 'NavigationComponent/navigation-component.php' ?> 
         
         <div class='home container-fluid'>
             <div class='welcome row'>
@@ -31,7 +31,7 @@
                     </div>
                 </div>
                 <div class='welcome-p2 col-12 col-sm-6 align-self-center'>
-                    <img src='..\assets\welcome.png' class='image img-fluid mx-auto d-block' alt='Welcome image'>
+                    <img src='assets\welcome.png' class='image img-fluid mx-auto d-block' alt='Welcome image'>
                 </div>
             </div>
             <div class='about row'>
@@ -64,91 +64,91 @@
                 <div class='brand-sliding-container container-fluid'>
                     <div class='brand-marquee'>
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-tally.png' width='200px'>
+                            <img src='assets\Brands\brand-logo-tally.png' width='200px'>
                         </div>  
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-biz-analyst.webp' width='200px'>
+                            <img src='assets\Brands\brand-logo-biz-analyst.webp' width='200px'>
                         </div> 
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-quick-heal.png' width='200px'>
+                            <img src='assets\Brands\brand-logo-quick-heal.png' width='200px'>
                         </div> 
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-tvs.png' width='150px'>                        
+                            <img src='assets\Brands\brand-logo-tvs.png' width='150px'>                        
                         </div>
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-wep-solutions.png' width='150px'>
+                            <img src='assets\Brands\brand-logo-wep-solutions.png' width='150px'>
                         </div>
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-lipi.png' width='200px'>
+                            <img src='assets\Brands\brand-logo-lipi.png' width='200px'>
                         </div>
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-sony.png' width='200px'>
+                            <img src='assets\Brands\brand-logo-sony.png' width='200px'>
                         </div>  
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-sandisk.png' width='200px'>
+                            <img src='assets\Brands\brand-logo-sandisk.png' width='200px'>
                         </div> 
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-seagate.png' width='150px'>
+                            <img src='assets\Brands\brand-logo-seagate.png' width='150px'>
                         </div> 
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-western-digital.png' width='200px'>                        
+                            <img src='assets\Brands\brand-logo-western-digital.png' width='200px'>                        
                         </div>
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-lenovo.png' width='200px'>
+                            <img src='assets\Brands\brand-logo-lenovo.png' width='200px'>
                         </div>
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-hewlett-packard.png' width='100px'>
+                            <img src='assets\Brands\brand-logo-hewlett-packard.png' width='100px'>
                         </div>  
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-asus.png' width='200px'>
+                            <img src='assets\Brands\brand-logo-asus.png' width='200px'>
                         </div>  
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-apollo.png' width='200px'>
+                            <img src='assets\Brands\brand-logo-apollo.png' width='200px'>
                         </div> 
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-goodyear.jpg' width='200px'>
+                            <img src='assets\Brands\brand-logo-goodyear.jpg' width='200px'>
                         </div> 
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-bridgestone.png' width='200px'>                        
+                            <img src='assets\Brands\brand-logo-bridgestone.png' width='200px'>                        
                         </div>
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-ceat.png' width='200px'>
+                            <img src='assets\Brands\brand-logo-ceat.png' width='200px'>
                         </div>
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-jk-tyres.png' width='200px'>
+                            <img src='assets\Brands\brand-logo-jk-tyres.png' width='200px'>
                         </div>  
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-mrf.png' width='200px'>
+                            <img src='assets\Brands\brand-logo-mrf.png' width='200px'>
                         </div> 
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-amaron.jpg' width='130px'>
+                            <img src='assets\Brands\brand-logo-amaron.jpg' width='130px'>
                         </div> 
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-exide.png' width='200px'>                        
+                            <img src='assets\Brands\brand-logo-exide.png' width='200px'>                        
                         </div>
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-power7.png' width='150px'>
+                            <img src='assets\Brands\brand-logo-power7.png' width='150px'>
                         </div>
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-castrol.png' width='200px'>
+                            <img src='assets\Brands\brand-logo-castrol.png' width='200px'>
                         </div>  
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-hindustan-petroleum.jpeg' width='150px'>
+                            <img src='assets\Brands\brand-logo-hindustan-petroleum.jpeg' width='150px'>
                         </div> 
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-iftex.png' width='150px'>
+                            <img src='assets\Brands\brand-logo-iftex.png' width='150px'>
                         </div> 
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-servo.png' width='200px'>                        
+                            <img src='assets\Brands\brand-logo-servo.png' width='200px'>                        
                         </div>
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-shrachi.png' width='200px'>
+                            <img src='assets\Brands\brand-logo-shrachi.png' width='200px'>
                         </div>  
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-kisan-kraft.jpg' width='200px'>
+                            <img src='assets\Brands\brand-logo-kisan-kraft.jpg' width='200px'>
                         </div> 
                         <div class='brand-img'>
-                            <img src='..\assets\Brands\brand-logo-greaves.png' width='200px'>
+                            <img src='assets\Brands\brand-logo-greaves.png' width='200px'>
                         </div> 
                     </div>
                 </div>
@@ -160,7 +160,7 @@
                 </div>
                 <div class='benefits-content col-12 align-self-center row no-gutters justify-content-around'>
                     <div class='card'>
-                        <img class='card-image' src='..\assets\Benefits\Highly_Competent_Team.png' alt='Highly Competent Team Image'>
+                        <img class='card-image' src='assets\Benefits\Highly_Competent_Team.png' alt='Highly Competent Team Image'>
                         <div class='card-body'>
                             <h5 class='card-title'>
                                 Highly Competent Team
@@ -172,7 +172,7 @@
                         </div>
                     </div>
                     <div class='card'>
-                        <img class='card-image' src='..\assets\Benefits\Ready_To_Assist.png' alt='Ready To Assist Image'>
+                        <img class='card-image' src='assets\Benefits\Ready_To_Assist.png' alt='Ready To Assist Image'>
                         <div class='card-body'>
                             <h5 class='card-title'>
                                 Ready to Assist
@@ -184,7 +184,7 @@
                         </div>
                     </div>
                     <div class='card'>
-                        <img class='card-image' src='..\assets\Benefits\Fast_Service.png' alt='Fast Service Image'>
+                        <img class='card-image' src='assets\Benefits\Fast_Service.png' alt='Fast Service Image'>
                         <div class='card-body'>
                             <h5 class='card-title'>
                                 Hassle-Free Fast Service
@@ -197,7 +197,7 @@
                         </div>
                     </div>
                     <div class='card'>
-                        <img class='card-image' src='..\assets\Benefits\Stay_Updated.png' alt='Stay Updated Image'>
+                        <img class='card-image' src='assets\Benefits\Stay_Updated.png' alt='Stay Updated Image'>
                         <div class='card-body'>
                             <h5 class='card-title'>
                                 Stay Updated with Latest Product Information
@@ -210,7 +210,7 @@
                         </div>
                     </div>
                     <div class='card'>
-                        <img class='card-image' src='..\assets\Benefits\Trainings_And_Webinars.png' alt='Trainings And Webinars Image'>
+                        <img class='card-image' src='assets\Benefits\Trainings_And_Webinars.png' alt='Trainings And Webinars Image'>
                         <div class='card-body'>
                             <h5 class='card-title'>
                                 In-Person Trainings and Webinars
@@ -224,7 +224,7 @@
                         </div>
                     </div>
                     <div class='card'>
-                        <img class='card-image' src='..\assets\Benefits\Community.png' alt='Community Image'>
+                        <img class='card-image' src='assets\Benefits\Community.png' alt='Community Image'>
                         <div class='card-body'>
                             <h5 class='card-title'>
                                 Be part of our Community
@@ -263,12 +263,12 @@
                 </div>
             </div>
             <div class='home-final-section row'>
-                <img src='..\assets\animated-talking-man.png' class='animated-talking-man img-fluid
+                <img src='assets\animated-talking-man.png' class='animated-talking-man img-fluid
                     d-block mx-auto' alt='We are excited to help you!'>
             </div>
         </div>
         
-        <?php include '../FooterComponent/footer-component.php' ?>
+        <?php include 'FooterComponent/footer-component.php' ?>
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>

@@ -1,4 +1,4 @@
 <?php 
-    header("Location: HomeComponent/home-component.php"); 
+    header("Location: home.php"); 
     exit; 
 ?> 
