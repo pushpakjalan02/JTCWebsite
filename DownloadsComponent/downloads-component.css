@@ -1,0 +1,171 @@
+.downloads .heading {
+    margin-top: 60px;
+    padding-top: 35px;
+}
+
+.downloads .heading h1 {
+    font-size: 3rem;
+    color: #073B4C;
+    text-align: center;
+}
+
+.downloads .message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.downloads .message-text {
+    padding: 8px 15px;
+    font-size: 1.5rem;
+    color: #1E4079;
+}
+
+.downloads .message-text .fa.fa-bolt {
+    color: #ffc800;
+}
+
+.downloads .message-text .fa.fa-check-square-o {
+    color: forestgreen;
+}
+
+.downloads .message-text .fa.fa-spinner {
+    color: brown;
+}
+
+@media (max-width: 991px) {
+    .downloads .heading h1 {
+        font-size: 2.5rem;
+    }
+    
+    .downloads .message-text {
+        padding: 5px 10px;
+        font-size: 1.3rem;
+    }
+}
+
+@media (max-width: 767px) {
+    .downloads .message {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 575px) {
+    .downloads .heading h1 {
+        font-size: 2.2rem;
+    }
+    
+    .downloads .message-text {
+        padding: 2px 10px;
+        font-size: 1.175rem;
+    }
+}
+
+.downloads .steps .steps-cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.downloads .steps .steps-cards .card {
+    margin: 0 15px;
+    width: 250px;
+    min-height: 200px;
+    border: 0;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    border-radius: 5px;
+}
+
+.downloads .steps .steps-cards i.fa {
+    text-align: center;
+    display: block;
+    font-size: 100px;
+    margin-bottom: 15px;
+}
+
+.downloads .steps .steps-cards i.fa.fa-search {
+    color: steelblue;
+}
+
+.downloads .steps .steps-cards i.fa.fa-download {
+    color: green;
+}
+
+.downloads .steps .steps-cards i.fa.fa-floppy-o {
+    color: darkred;
+}
+
+.downloads .steps .steps-cards .card-title {
+    font-size: 24px;
+    text-align: center;
+    color: darkslategrey;
+    font-weight: 600;
+}
+
+@media (max-width: 991px) {
+    .downloads .steps .steps-cards .card {
+        width: 200px;
+        min-height: 150px;
+    }
+    
+    .downloads .steps .steps-cards i.fa {
+        font-size: 80px;
+    }
+}
+
+@media (max-width: 767px) {
+    .downloads .steps .steps-cards .card {
+        width: 160px;
+        min-height: 110px;
+    }
+    
+    .downloads .steps .steps-cards i.fa {
+        font-size: 60px;
+    }
+}
+
+@media (max-width: 575px) {
+    .downloads .steps .steps-cards {
+        margin-top: 30px;
+    }
+
+    .downloads .steps .steps-cards .card {
+        width: 120px;
+        min-height: 70px;
+        margin: 0 10px;
+    }
+    
+    .downloads .steps .steps-cards .card .card-body {
+        padding: 15px;
+    }
+
+    .downloads .steps .steps-cards i.fa {
+        font-size: 40px;
+    }
+
+    .downloads .steps .steps-cards .card-title {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 450px) {
+    .downloads .steps .steps-cards {
+        margin-top: 30px;
+        flex-direction: column;
+    }
+
+    .downloads .steps .steps-cards .card {
+        width: 200px;
+        min-height: 150px;
+        margin: 10px;
+    }
+
+    .downloads .steps .steps-cards i.fa {
+        font-size: 80px;
+    }
+
+    .downloads .steps .steps-cards .card-title {
+        font-size: 24px;
+    }
+}
