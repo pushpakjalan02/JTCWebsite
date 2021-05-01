@@ -56,15 +56,61 @@
                     </div>
                 </div>
             </div>
-            <div class='inputs row'>
-                <div class="dropdown">
-                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Dropdown button
-                    </button>
-                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                        <a class="dropdown-item" href="#">Action</a>
-                        <a class="dropdown-item" href="#">Another action</a>
-                        <a class="dropdown-item" href="#">Something else here</a>
+            <div class='products row no-gutters'>
+                <div class="card">
+                    <div class="card-header search-form row no-gutters">
+                        <h5 class="col-12 px-0">Search</h5>
+                        <div class="dropdown col-xl-2 col-lg-3 col-sm-6 pr-sm-2 pr-lg-4 mt-3">
+                            <button class="btn btn-secondary dropdown-toggle w-100" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Type
+                            </button>
+                            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                <a class="dropdown-item" href="#">Action</a>
+                                <a class="dropdown-item" href="#">Another action</a>
+                                <a class="dropdown-item" href="#">Something else here</a>
+                            </div>
+                        </div>
+                        <div class="dropdown col-xl-2 col-lg-3 col-sm-6 pl-sm-2 pl-lg-0 pr-lg-4 mt-3">
+                            <button class="btn btn-secondary dropdown-toggle w-100" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Brand
+                            </button>
+                            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                <a class="dropdown-item" href="#">Action</a>
+                                <a class="dropdown-item" href="#">Another action</a>
+                                <a class="dropdown-item" href="#">Something else here</a>
+                            </div>
+                        </div>
+                        <div class="search-textbox col-xl-7 col-lg-4 col-sm-12 pr-lg-4 mt-3">
+                            <input class="form-control" type="search" placeholder="Search" aria-label="Search">
+                        </div>
+                        <button class="btn btn-outline-success col-xl-1 col-lg-2 col-md-3 mt-3" type="submit">
+                            <i class="fa fa-search"></i>
+                            Search
+                        </button>
+                    </div>
+                    <div class="card-body row no-gutters">
+                        <div class="sidebar col-xl-2 col-lg-3">
+                            <h5>Sort</h5>
+                            <div class="custom-control custom-radio">
+                                <input type="radio" id="customRadio1" name="customRadio" class="custom-control-input">
+                                <label class="custom-control-label" for="customRadio1">Name</label>
+                            </div>
+                            <div class="custom-control custom-radio">
+                                <input type="radio" id="customRadio2" name="customRadio" class="custom-control-input">
+                                <label class="custom-control-label" for="customRadio2">Price</label>
+                            </div>
+                            <div class="custom-control custom-radio">
+                                <input type="radio" id="customRadio3" name="customRadio" class="custom-control-input">
+                                <label class="custom-control-label" for="customRadio3">Size</label>
+                            </div>
+                            <div class="custom-control custom-radio">
+                                <input type="radio" id="customRadio4" name="customRadio" class="custom-control-input">
+                                <label class="custom-control-label" for="customRadio4">Quantity</label>
+                            </div>
+                        </div>
+                        <div class="content col-xl-10 col-lg-9">
+                            Content
+                        </div>
                     </div>
                 </div>
             </div>
